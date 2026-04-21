@@ -97,10 +97,13 @@ ul {
 .nav-links a {
     font-weight: 500;
     color: var(--text-muted);
+    transition: var(--transition);
+    letter-spacing: 0;
 }
 
 .nav-links a:hover {
     color: var(--primary);
+    letter-spacing: 0.5px;
 }
 
 /* Hero Section (SA-8) */
