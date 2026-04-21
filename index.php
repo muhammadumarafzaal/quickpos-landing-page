@@ -106,6 +106,76 @@
                 </div>
             </div>
         </section>
+
+        <!-- Pricing Section (SA-10) -->
+        <section id="pricing" class="pricing">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Simple, <span>Transparent</span> Pricing</h2>
+                    <p class="section-description">Choose the plan that's right for your business. No hidden fees, ever.</p>
+                </div>
+
+                <div class="pricing-grid">
+                    <!-- Basic Plan -->
+                    <div class="pricing-card">
+                        <div class="pricing-header">
+                            <h3>Basic</h3>
+                            <div class="price">$29<span>/mo</span></div>
+                            <p>For small boutique shops</p>
+                        </div>
+                        <ul class="pricing-features">
+                            <li>1 Store Location</li>
+                            <li>5 Staff Accounts</li>
+                            <li>Standard Analytics</li>
+                            <li>Email Support</li>
+                            <li class="disabled">Custom Integrations</li>
+                        </ul>
+                        <div class="pricing-footer">
+                            <a href="#" class="btn btn-outline">Choose Basic</a>
+                        </div>
+                    </div>
+
+                    <!-- Pro Plan (Popular) -->
+                    <div class="pricing-card popular">
+                        <div class="popular-badge">Most Popular</div>
+                        <div class="pricing-header">
+                            <h3>Pro</h3>
+                            <div class="price">$99<span>/mo</span></div>
+                            <p>For growing retail businesses</p>
+                        </div>
+                        <ul class="pricing-features">
+                            <li>5 Store Locations</li>
+                            <li>Unlimited Staff</li>
+                            <li>Advanced Analytics</li>
+                            <li>24/7 Priority Support</li>
+                            <li>Inventory Forecasting</li>
+                        </ul>
+                        <div class="pricing-footer">
+                            <a href="#" class="btn btn-primary">Choose Pro</a>
+                        </div>
+                    </div>
+
+                    <!-- Enterprise Plan -->
+                    <div class="pricing-card">
+                        <div class="pricing-header">
+                            <h3>Enterprise</h3>
+                            <div class="price">Custom</div>
+                            <p>For large retail chains</p>
+                        </div>
+                        <ul class="pricing-features">
+                            <li>Unlimited Locations</li>
+                            <li>Custom Staff Roles</li>
+                            <li>Dedicated Account Manager</li>
+                            <li>API Access</li>
+                            <li>Custom Integrations</li>
+                        </ul>
+                        <div class="pricing-footer">
+                            <a href="#" class="btn btn-outline">Contact Sales</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer>
