@@ -1,0 +1,14 @@
+# PHP
+vendor/
+composer.lock
+.php-cs-fixer.cache
+
+# Logs
+*.log
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
