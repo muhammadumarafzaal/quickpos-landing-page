@@ -1,4 +1,4 @@
-# QuickPOS Landing Page
+# QuickPOS Landing Page Be ready
 
 A beautiful, responsive, single-page landing website for QuickPOS, built with PHP and Vanilla CSS.
 
