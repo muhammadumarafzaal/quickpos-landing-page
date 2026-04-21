@@ -28,7 +28,36 @@
     </header>
 
     <main>
-        <!-- Hero Section (SA-8) will go here -->
+        <!-- Hero Section (SA-8) -->
+        <section class="hero">
+            <div class="container hero-grid">
+                <div class="hero-content">
+                    <span class="badge">Next-Gen POS Solution</span>
+                    <h2 class="hero-title">The Last POS System <br><span>You’ll Ever Need</span></h2>
+                    <p class="hero-subtitle">Simplify your sales, manage inventory, and grow your business with our all-in-one cloud platform designed for modern retailers.</p>
+                    <div class="hero-actions">
+                        <a href="#signup" class="btn btn-primary btn-large">Get Started for Free</a>
+                        <a href="#demo" class="btn btn-outline btn-large">Watch Demo</a>
+                    </div>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <strong>10k+</strong>
+                            <span>Active Users</span>
+                        </div>
+                        <div class="stat">
+                            <strong>99.9%</strong>
+                            <span>Uptime</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="image-wrapper">
+                        <img src="hero-mockup.png" alt="QuickPOS Dashboard Mockup">
+                    </div>
+                    <div class="glow"></div>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer>
